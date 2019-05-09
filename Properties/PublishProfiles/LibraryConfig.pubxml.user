@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Visual Studio Workbench\WebSite\None_host</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/LibraryDemo_1.dll">
+      <publishTime>07/24/2018 12:49:48</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/06/2018 16:09:23</publishTime>
+    </File>
+    <File Include="images/cover.jpg">
+      <publishTime>03/30/2018 16:02:04</publishTime>
+    </File>
+    <File Include="images/failure.png">
+      <publishTime>03/30/2018 15:45:40</publishTime>
+    </File>
+    <File Include="images/library.jpg">
+      <publishTime>03/14/2018 14:27:39</publishTime>
+    </File>
+    <File Include="images/success.png">
+      <publishTime>03/30/2018 15:42:26</publishTime>
+    </File>
+    <File Include="images/UL.jpg">
+      <publishTime>03/30/2018 10:02:13</publishTime>
+    </File>
+    <File Include="images/UserLogin.jpg">
+      <publishTime>03/30/2018 09:52:11</publishTime>
+    </File>
+    <File Include="images/书籍.png">
+      <publishTime>03/30/2018 15:58:42</publishTime>
+    </File>
+    <File Include="Manage.Master">
+      <publishTime>07/24/2018 12:37:12</publishTime>
+    </File>
+    <File Include="PC_pages/Admin.aspx">
+      <publishTime>03/14/2018 17:40:44</publishTime>
+    </File>
+    <File Include="PC_pages/AdminAdd.aspx">
+      <publishTime>03/14/2018 17:05:43</publishTime>
+    </File>
+    <File Include="PC_pages/AdminAdd_1.aspx">
+      <publishTime>03/11/2018 21:42:48</publishTime>
+    </File>
+    <File Include="PC_pages/AdminInfo.aspx">
+      <publishTime>03/14/2018 17:34:14</publishTime>
+    </File>
+    <File Include="PC_pages/AdminLogin.aspx">
+      <publishTime>03/30/2018 22:21:21</publishTime>
+    </File>
+    <File Include="PC_pages/Adminmain.aspx">
+      <publishTime>03/14/2018 17:05:43</publishTime>
+    </File>
+    <File Include="PC_pages/AdminPage.aspx">
+      <publishTime>07/24/2018 12:43:06</publishTime>
+    </File>
+    <File Include="PC_pages/Book.aspx">
+      <publishTime>03/15/2018 15:32:30</publishTime>
+    </File>
+    <File Include="PC_pages/BookIn.aspx">
+      <publishTime>03/30/2018 17:22:03</publishTime>
+    </File>
+    <File Include="PC_pages/BookInfo.aspx">
+      <publishTime>03/31/2018 10:18:07</publishTime>
+    </File>
+    <File Include="PC_pages/BookOut.aspx">
+      <publishTime>03/15/2018 15:24:55</publishTime>
+    </File>
+    <File Include="PC_pages/Borrow.aspx">
+      <publishTime>03/30/2018 21:54:13</publishTime>
+    </File>
+    <File Include="PC_pages/Reader.aspx">
+      <publishTime>03/14/2018 17:44:53</publishTime>
+    </File>
+    <File Include="PC_pages/ReaderInfo.aspx">
+      <publishTime>03/14/2018 17:28:01</publishTime>
+    </File>
+    <File Include="PC_pages/Report.aspx">
+      <publishTime>03/14/2018 17:12:34</publishTime>
+    </File>
+    <File Include="PC_pages/Return.aspx">
+      <publishTime>03/15/2018 15:52:54</publishTime>
+    </File>
+    <File Include="PC_pages/User.aspx">
+      <publishTime>07/24/2018 12:47:56</publishTime>
+    </File>
+    <File Include="test.aspx">
+      <publishTime>03/11/2018 22:24:01</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/13/2018 22:18:11</publishTime>
+    </File>
+    <File Include="wechat.ashx">
+      <publishTime>03/11/2018 21:26:48</publishTime>
+    </File>
+    <File Include="Wechat_pages/Apply.aspx">
+      <publishTime>03/30/2018 15:39:57</publishTime>
+    </File>
+    <File Include="Wechat_pages/Book.aspx">
+      <publishTime>03/30/2018 15:34:19</publishTime>
+    </File>
+    <File Include="Wechat_pages/BookSearch.aspx">
+      <publishTime>04/13/2018 22:17:24</publishTime>
+    </File>
+    <File Include="Wechat_pages/NotFound.aspx">
+      <publishTime>03/30/2018 15:47:31</publishTime>
+    </File>
+    <File Include="Wechat_pages/Order.aspx">
+      <publishTime>03/30/2018 15:51:25</publishTime>
+    </File>
+    <File Include="Wechat_pages/SearchResult.aspx">
+      <publishTime>03/30/2018 16:03:24</publishTime>
+    </File>
+    <File Include="Wechat_pages/Success.aspx">
+      <publishTime>03/30/2018 15:44:59</publishTime>
+    </File>
+    <File Include="Wechat_pages/UserLogin.aspx">
+      <publishTime>03/30/2018 10:39:36</publishTime>
+    </File>
+    <File Include="Wechat_pages/UserPage.aspx">
+      <publishTime>03/30/2018 11:15:45</publishTime>
+    </File>
+    <File Include="Wechat_pages/UserRegister.aspx">
+      <publishTime>03/30/2018 10:48:11</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

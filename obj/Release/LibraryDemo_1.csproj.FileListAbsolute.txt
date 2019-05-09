@@ -1,0 +1,6 @@
+D:\Visual Studio Workbench\LibraryDemo_1\LibraryDemo_1\bin\LibraryDemo_1.dll.config
+D:\Visual Studio Workbench\LibraryDemo_1\LibraryDemo_1\bin\LibraryDemo_1.dll
+D:\Visual Studio Workbench\LibraryDemo_1\LibraryDemo_1\bin\LibraryDemo_1.pdb
+D:\Visual Studio Workbench\LibraryDemo_1\LibraryDemo_1\obj\Release\LibraryDemo_1.dll
+D:\Visual Studio Workbench\LibraryDemo_1\LibraryDemo_1\obj\Release\LibraryDemo_1.pdb
+D:\Visual Studio Workbench\LibraryDemo_1\LibraryDemo_1\obj\Release\LibraryDemo_1.csprojResolveAssemblyReference.cache
